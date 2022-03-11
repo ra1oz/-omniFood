@@ -1,0 +1,9 @@
+{
+  "icons": [
+    {
+      "src": "/android,için,icon,adresi",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
